@@ -1,0 +1,6 @@
+{
+  "name": "Bursa Kerja Khusus (BKK) SMKN 1 Warunggunung",
+  "description": "Sistem Informasi Bursa Kerja Khusus (BKK) SMK Negeri 1 Warunggunung untuk pengelolaan data lulusan bekerja, mitra industri, MOU, statistik penempatan, dan struktur organisasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
